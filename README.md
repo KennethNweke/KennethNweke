@@ -56,7 +56,7 @@ I have a relevant hands on experience in:
     <img src="https://img.shields.io/badge/-FortiGate-EE3124?style=for-the-badge&logo=Fortinet&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Hikvision-FF3300?style=for-the-badge&logo=hikvision&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AWS%20S3-232F3E?style=for-the-badge&logo=amazon&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 
