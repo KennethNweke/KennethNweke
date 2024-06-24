@@ -41,14 +41,15 @@ I have a relevant hands on experience in:
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ### SOC Engineering
+
 - Security Incident Response
 - Intrusion Detection and Prevention Systems (IDPS)
 - SIEM (Security Information and Event Management)
 - Vulnerability Assessment and Penetration Testing
-- Security Policy Development
-- Threat Hunting
+- Security Policy Development | Threat Hunting
 
 ### Tools & Technologies
+
 - Cisco | Mikrotik |  and other network hardware
 - Wireshark | Nmap | Splunk | Nessus | Metasploit | Python |  | Ansible
 
@@ -56,10 +57,11 @@ I have a relevant hands on experience in:
 
 ## 📈 Certifications
 
-- Cisco Certified Network Professional (CCNP)
+- Cisco Certified Network Associate (CCNA)
 - Certified Information Systems Security Professional (CISSP)
 - CompTIA Security+
 - Certified Ethical Hacker (CEH)
+- <a href="https://www.credly.com/users/kenneth-nweke">Badges</a>
 
 ## 📞 Contact Me
 
