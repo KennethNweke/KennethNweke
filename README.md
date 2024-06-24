@@ -68,11 +68,10 @@ I have a relevant hands on experience in:
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out to me via:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Personal Blog/Website](https://www.yourwebsite.com)
+- **Email**: [your.email@example.com](mailto:osinachiken@gmail.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/kenneth-nweke-4a9456185/)
+- **X**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+
 ---
 
 Thank you for visiting my profile! Let's collaborate and make something amazing together.
