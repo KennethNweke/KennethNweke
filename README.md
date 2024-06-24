@@ -7,7 +7,7 @@ I am a Network Engineer with extensive experience in designing, implementing, an
 
 ## 🚀 About Me
 
-I have a proven track record in:
+I have a relevant hands on experience in:
 - **Network Engineering**: Designing and implementing network infrastructures that are both efficient and secure.
 - **Security Operations Center (SOC)**: Managing and monitoring SOC operations to ensure the integrity and security of organizational data and systems.
 - **Cybersecurity**: Identifying, mitigating, and responding to security threats and incidents.
@@ -15,12 +15,17 @@ I have a proven track record in:
 ## 🛠 Skills
 
 ### Network Engineering
-- Network Design and Implementation
-- Network Troubleshooting and Optimization
-- LAN/WAN Technologies
-- Firewall Configuration and Management
-- VPN Solutions
-- Network Protocols (TCP/IP, BGP, OSPF, etc.)
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Network Design and Implementation          | <a href="https://google.com">Detection Lab</a>|
+| Network Troubleshooting and Optimization | <a href="https://google.com">Detection Lab</a>|
+| LAN/WAN Technologies         | SOC Automation Lab|
+| Firewall Configuration and Management      | SOC Automation Lab|
+| VPN Solutions                 | SOC Automation Lab|
+| Network Protocols (TCP/IP, BGP, OSPF, etc.) | SOC Automation Lab|
+
+
 
 ### SOC Engineering
 
