@@ -41,18 +41,13 @@ I have a relevant hands on experience in:
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-### SOC Engineering
-
-- SIEM (Security Information and Event Management)
-- Vulnerability Assessment and Penetration Testing
-- Security Policy Development | Threat Hunting
 
 ### Tools & Technologies
 
 - Cisco | Mikrotik | Fortigate FW | 
 - Wireshark | Nmap | Splunk | Nessus | Python | Ansible
 - AWS | EC2 | Route53 | S3 | EFS | Microsoft 365 | Windows Server 
-
+- SIEM | Vulnerability Assessment and Penetration Testing | IT Policy Development
 
 ## 📈 Certifications 
 
