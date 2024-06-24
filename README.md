@@ -57,10 +57,6 @@ I have a relevant hands on experience in:
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Hikvision-FF3300?style=for-the-badge&logo=hikvision&logoColor=white" />
     <img src="https://img.shields.io/badge/-AWS%20S3-232F3E?style=for-the-badge&logo=amazon&logoColor=white" />
-
- 
-
-
 </div>
 
 ### Service and Asset Management
@@ -69,18 +65,6 @@ I have a relevant hands on experience in:
     <img src="https://img.shields.io/badge/-Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Freshdesk-78B657?style=for-the-badge&logo=freshdesk&logoColor=white" />
 </div>
-
-### Cloud
-<div>
-    <img src="https://img.shields.io/badge/-AWS%20EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AWS%20EFS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-
-
-</div>
-
-
-
-
 
 <br>
 
