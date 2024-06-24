@@ -1,6 +1,7 @@
 # Hello, I'm Kenneth Nweke 👋
 
 <a href="https://www.linkedin.com/in/kenneth-nweke-4a9456185/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.x.com/Kenneth80923528"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a Network Engineer with extensive experience in designing, implementing, and managing secure network infrastructures, I am currently pursuing my Masters Degree in Cyber Security at Anglia Ruskin University. 
 
@@ -13,6 +14,7 @@ I have a relevant hands on experience in:
 - **Cybersecurity**: Identifying, mitigating, and responding to security threats and incidents.
 
 ## 🛠 Skills
+
 
 ### Network Engineering
 
@@ -38,19 +40,6 @@ I have a relevant hands on experience in:
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### SOC Engineering
 - Security Incident Response
 - Intrusion Detection and Prevention Systems (IDPS)
@@ -60,7 +49,7 @@ I have a relevant hands on experience in:
 - Threat Hunting
 
 ### Tools & Technologies
-- Cisco, Juniper, and other network hardware
+- Cisco | Mikrotik |  and other network hardware
 - Wireshark | Nmap | Splunk | Nessus | Metasploit | Python |  | Ansible
 
 
