@@ -73,8 +73,7 @@ I have a relevant hands on experience in:
 <div>
     <img src="https://img.shields.io/badge/-Hikvision-FF3300?style=for-the-badge&logo=hikvision&logoColor=white" />
     <img src="https://img.shields.io/badge/-ACTi-FF4500?style=for-the-badge&logo=acti&logoColor=white" />
-    <a href="https://www.zkteco.com/">
-  <img src="https://img.shields.io/badge/-ZKTeco-2DB92D?style=for-the-badge&logoColor=white&labelColor=2DB92D&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAxElEQVQ4T8XUsQ2DQBSA4b3PyRZk0vQgJxAFUMYJxBwwGngFV4hP0Eg3UC6oD4AA2cvoVRUV7oJD8gfIngd5pR7Gs58Jt8mwPPZs4mJ+J5M3Nj7g5bl4ygrSwuwuYK2Un19k3UJpfP5TjBHPkVYP8KbCXkFUkYYADP4Hg4QgMhRE8I2xYwReAPmcsWJXxTZpvhEjhSH8nHMY8yy8rPhM1KwUNBQ8iS/i+QHi7i7mDT5HgGsl6GqAArK+9WtsUQ9YAAAAASUVORK5CYII=" alt="ZKTeco Logo" />
+    <img src="https://img.shields.io/badge/-ZKTeco-2DB92D?style=for-the-badge&logo=zkteco&logoColor=white" />
 </a>
 
 
