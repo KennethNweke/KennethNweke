@@ -51,8 +51,6 @@ I have a relevant hands on experience in:
 
 ## 📈 Certifications 
 
-- Cisco CCNA | ISC2 CC | AWS CLF
-
 <div>
 <img src="https://img.shields.io/badge/-CCNA-1A1A1A?&style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
