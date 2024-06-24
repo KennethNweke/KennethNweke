@@ -60,6 +60,8 @@ I have a relevant hands on experience in:
     <img src="https://img.shields.io/badge/-Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
     <br>
     <img src="https://img.shields.io/badge/-Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMware%20ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+
 
 
 </div>
