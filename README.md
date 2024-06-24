@@ -66,23 +66,7 @@ I have a relevant hands on experience in:
 - Nessus, Metasploit
 - Python, Bash Scripting
 
-## 📂 Projects
 
-### 1. Secure Network Infrastructure for Enterprise
-**Description**: Designed and implemented a secure and scalable network infrastructure for a large enterprise, incorporating redundant paths, high availability, and security best practices.
-- **Technologies Used**: Cisco ASA, Cisco Catalyst Switches, Fortinet Firewalls, BGP, OSPF.
-
-### 2. SOC Implementation and Management
-**Description**: Established a SOC from scratch, including selecting the right tools, setting up monitoring systems, and creating incident response protocols.
-- **Technologies Used**: Splunk, ELK Stack, Snort, Suricata.
-
-### 3. Automated Threat Detection System
-**Description**: Developed an automated threat detection system using machine learning to analyze network traffic and identify potential security threats.
-- **Technologies Used**: Python, Scikit-learn, Wireshark, Suricata.
-
-### 4. VPN Deployment for Remote Workforce
-**Description**: Implemented a VPN solution to ensure secure remote access for employees, enhancing productivity while maintaining network security.
-- **Technologies Used**: OpenVPN, Cisco AnyConnect, Palo Alto Firewalls.
 
 ## 📈 Certifications
 
