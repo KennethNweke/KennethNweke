@@ -21,7 +21,7 @@ I have a relevant hands on experience in:
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Design and Implementation          | <a href="https://google.com">Detection Lab</a>|
+| Network Design and Implementation          | <a href="https://google.com">Detection Lab</a>, <a href="https://google.com">Project 2</a> |
 | Network Troubleshooting and Optimization | <a href="https://google.com">Detection Lab</a>|
 | LAN/WAN Technologies         | SOC Automation Lab|
 | Firewall Configuration and Management      | SOC Automation Lab|
