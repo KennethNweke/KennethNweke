@@ -52,11 +52,11 @@ I have a relevant hands on experience in:
 
 ### Network Infrastructure
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cisco-1A1A1A?style=for-the-badge&logo=cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-FortiGate-EE3124?style=for-the-badge&logo=Fortinet&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Hikvision-FF3300?style=for-the-badge&logo=hikvision&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Hikvision-FF3300?style=for-the-badge&logoColor=white" />
+ 
 
 
 </div>
