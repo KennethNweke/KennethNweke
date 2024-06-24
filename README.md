@@ -61,7 +61,8 @@ I have a relevant hands on experience in:
 <div>
     <img src="https://img.shields.io/badge/-GLPI-2C5BB4?style=for-the-badge&logo=glpi&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Freshservice-2D96F2?style=for-the-badge&logo=freshservice&logoColor=white" />   
+    <img src="https://img.shields.io/badge/-Freshdesk-78B657?style=for-the-badge&logo=freshdesk&logoColor=white" />
+
 
 </div>
 
