@@ -58,11 +58,16 @@ I have a relevant hands on experience in:
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cisco-1A1A1A?style=for-the-badge&logo=cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
     <img src="https://img.shields.io/badge/-FortiGate-EE3124?style=for-the-badge&logo=Fortinet&logoColor=white" />
 </div>
 
+### Service and Asset Management
+<div>
+    <img src="https://img.shields.io/badge/-GLPI-2C5BB4?style=for-the-badge&logo=glpi&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Freshservice-2D96F2?style=for-the-badge&logo=freshservice&logoColor=white" />   
 
+</div>
 
 
 
