@@ -34,8 +34,8 @@ I have a relevant hands on experience in:
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -43,17 +43,15 @@ I have a relevant hands on experience in:
 
 ### SOC Engineering
 
-- Security Incident Response
-- Intrusion Detection and Prevention Systems (IDPS)
 - SIEM (Security Information and Event Management)
 - Vulnerability Assessment and Penetration Testing
 - Security Policy Development | Threat Hunting
 
 ### Tools & Technologies
 
-- Cisco | Mikrotik |  and other network hardware
-- Wireshark | Nmap | Splunk | Nessus | Metasploit | Python |  | Ansible
-
+- Cisco | Mikrotik | Fortigate FW | 
+- Wireshark | Nmap | Splunk | Nessus | Python | Ansible
+- AWS | EC2 | Route53 | S3 | EFS | Microsoft 365 | Windows Server 
 
 
 ## 📈 Certifications 
