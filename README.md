@@ -61,10 +61,7 @@ I have a relevant hands on experience in:
 
 ### Tools & Technologies
 - Cisco, Juniper, and other network hardware
-- Wireshark, Nmap
-- Splunk, ELK Stack
-- Nessus, Metasploit
-- Python, Bash Scripting
+- Wireshark | Nmap | Splunk | Nessus | Metasploit | Python |  | Ansible
 
 
 
