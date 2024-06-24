@@ -6,6 +6,7 @@
 
 I am a Network Engineer with extensive experience in designing, implementing, and managing secure network infrastructures, I am currently pursuing my Masters Degree in Cyber Security at Anglia Ruskin University. 
 
+<br>
 
 ## 🚀 About Me
 
@@ -13,6 +14,8 @@ I have a relevant hands on experience in:
 - **Network Engineering**: Designing and implementing network infrastructures that are both efficient and secure.
 - **Security Operations Center (SOC)**: Managing and monitoring SOC operations to ensure the integrity and security of organizational data and systems.
 - **Cybersecurity**: Identifying, mitigating, and responding to security threats and incidents.
+
+<br>
 
 ## 🛠 Skills
 
@@ -48,6 +51,8 @@ I have a relevant hands on experience in:
 - Wireshark | Nmap | Splunk | Nessus | Python | Ansible
 - AWS | EC2 | Route53 | S3 | EFS | Microsoft 365 | Windows Server 
 - SIEM | Vulnerability Assessment | Penetration Testing | IT Policy Development
+
+<br>
 
 ## 📈 Certifications 
 
