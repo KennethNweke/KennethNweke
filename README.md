@@ -56,12 +56,13 @@ I have a relevant hands on experience in:
 
 
 
-## 📈 Certifications <a href="https://www.credly.com/users/kenneth-nweke"><img src="https://img.shields.io/badge/-Credly-FF6F00?&style=for-the-badge&logo=credly&logoColor=white" /></a>
+## 📈 Certifications 
 
 - Cisco Certified Network Associate (CCNA)
 - Certified Information Systems Security Professional (CISSP)
 - CompTIA Security+
 - Certified Ethical Hacker (CEH)
+<a href="https://www.credly.com/users/kenneth-nweke"><img src="https://img.shields.io/badge/-Credly-FF6F00?&style=for-the-badge&logo=credly&logoColor=white" /></a>
 
 ## 📞 Contact Me
 
