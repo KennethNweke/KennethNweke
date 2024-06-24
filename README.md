@@ -51,8 +51,8 @@ I have a relevant hands on experience in:
 
 ## 📈 Certifications 
 
-- Cisco CCNA | ISC2 CC | AWS CLF | CompTIA Security+
-- MS AZURE 900 | Certified Ethical Hacker (CEH)
+- Cisco CCNA | ISC2 CC | AWS CLF
+- MS AZURE 900 | CompTIA Security+
 - <a href="https://www.credly.com/users/kenneth-nweke">Badges</a>
 
 ## 📞 Contact Me
