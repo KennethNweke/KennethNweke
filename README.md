@@ -1,7 +1,6 @@
 # Hello, I'm Kenneth Nweke 👋
 
 <a href="https://www.linkedin.com/in/kenneth-nweke-4a9456185/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/Kenneth80923528"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.x.com/Kenneth80923528"><img src="https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=x&logoColor=white" /></a>
 
 I am a Network Engineer with extensive experience in designing, implementing, and managing secure network infrastructures, I am currently pursuing my Masters Degree in Cyber Security at Anglia Ruskin University. 
