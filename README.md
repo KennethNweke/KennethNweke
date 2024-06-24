@@ -52,10 +52,9 @@ I have a relevant hands on experience in:
 ## 📈 Certifications 
 
 - Cisco CCNA | ISC2 CC | AWS CLF
-- MS AZURE 900 | CompTIA Security+
-- <a href="https://www.credly.com/users/kenneth-nweke">Badges</a>
 
 <div>
+<img src="https://img.shields.io/badge/-CCNA-1A1A1A?&style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-AWS%20CLF-232F3E?&style=for-the-badge&logo=amazon&logoColor=white" />
 <img src="https://img.shields.io/badge/-MS%20AZ%20900-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
