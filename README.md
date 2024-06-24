@@ -65,9 +65,7 @@ I have a relevant hands on experience in:
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out to me via:
 
-- **Email**: [osinachiken@gmail.com](mailto:osinachiken@gmail.com)
-- **LinkedIn**: [Kenneth Nweke](https://www.linkedin.com/in/kenneth-nweke-4a9456185/)
-- **X**: [Kenneth Nweke](https://www.linkedin.com/in/yourprofile)
+- **Email**: [osinachiken@gmail.com](mailto:osinachiken@gmail.com) | **LinkedIn**: [Kenneth Nweke](https://www.linkedin.com/in/kenneth-nweke-4a9456185/) | **X**: [Kenneth Nweke](https://www.linkedin.com/in/yourprofile)
 
 ---
 
