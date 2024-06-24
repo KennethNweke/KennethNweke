@@ -60,6 +60,7 @@ I have a relevant hands on experience in:
 <a href="https://www.credly.com/users/kenneth-nweke"><img src="https://img.shields.io/badge/-Credly-FF6F00?&style=for-the-badge&logo=credly&logoColor=white" /></a>
 </div>
 
+<br>
 
 ## 📞 Contact Me
 
