@@ -5,19 +5,6 @@
 I am a Network Engineer with extensive experience in designing, implementing, and managing secure network infrastructures, I am currently pursuing my Masters Degree in Cyber Security at Anglia Ruskin University. 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 🚀 About Me
 
 I have a proven track record in:
@@ -34,6 +21,30 @@ I have a proven track record in:
 - Firewall Configuration and Management
 - VPN Solutions
 - Network Protocols (TCP/IP, BGP, OSPF, etc.)
+
+### SOC Engineering
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### SOC Engineering
 - Security Incident Response
