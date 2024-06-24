@@ -57,9 +57,9 @@ I have a relevant hands on experience in:
 
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<a href="https://www.credly.com/users/kenneth-nweke"><img src="https://img.shields.io/badge/-Credly-FF6F00?&style=for-the-badge&logo=credly&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/-AWS%20CLF-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/-ISC2%20CC-006400?&style=for-the-badge&logo=ISC2&logoColor=white" />
-
+<a href="https://www.credly.com/users/kenneth-nweke"><img src="https://img.shields.io/badge/-Credly-FF6F00?&style=for-the-badge&logo=credly&logoColor=white" /></a>
 </div>
 
 
