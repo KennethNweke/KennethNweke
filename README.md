@@ -62,7 +62,7 @@ I have a relevant hands on experience in:
 <img src="https://img.shields.io/badge/-AWS%20CLF-232F3E?&style=for-the-badge&logo=amazon&logoColor=white" />
 <img src="https://img.shields.io/badge/-MS%20AZ%20900-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-ISC2%20CC-006400?&style=for-the-badge&logo=ISC2&logoColor=white" />
-<a href="https://www.credly.com/users/kenneth-nweke"><img src="https://img.shields.io/badge/-Credly-FF6F00?&style=for-the-badge&logo=credly&logoColor=white" /></a>
+<a href="https://www.credly.com/users/kenneth-nweke"><img src="https://img.shields.io/badge/-Credly-FF6F00?&style=for-the-badge&logo=cedly&logoColor=white" /></a>
 </div>
 
 <br>
