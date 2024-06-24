@@ -45,14 +45,10 @@ I have a relevant hands on experience in:
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 
-### Tools & Technologies
-
-- Cisco | Mikrotik | Fortigate FW | DLINK | 
-- Wireshark | Nmap | Splunk | Nessus | Python | Ansible
-- AWS | EC2 | Route53 | S3 | EFS | Microsoft 365 | Windows Server 
-- SIEM | Vulnerability Assessment | Penetration Testing | IT Policy Development
+<br>
 
 
+## 🛠 Tools & Technologies
 
 ### Network Infrastructure
 <div>
