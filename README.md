@@ -62,7 +62,7 @@ I have a relevant hands on experience in:
 - Certified Information Systems Security Professional (CISSP)
 - CompTIA Security+
 - Certified Ethical Hacker (CEH)
-- <a href="https://www.credly.com/users/kenneth-nweke">Badges</a>
+- <a href="https://www.credly.com/users/kenneth-nweke"><img src="https://img.shields.io/badge/-Credly-FF6F00?&style=for-the-badge&logo=credly&logoColor=white" /></a>
 
 ## 📞 Contact Me
 
@@ -70,13 +70,9 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 - **Email**: [your.email@example.com](mailto:your.email@example.com)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-
-## 🤝 Let's Connect
-
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - [Twitter](https://twitter.com/yourprofile)
 - [Personal Blog/Website](https://www.yourwebsite.com)
-
 ---
 
 Thank you for visiting my profile! Let's collaborate and make something amazing together.
