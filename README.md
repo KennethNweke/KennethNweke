@@ -62,7 +62,7 @@ I have a relevant hands on experience in:
 - Certified Information Systems Security Professional (CISSP)
 - CompTIA Security+
 - Certified Ethical Hacker (CEH)
-- <a href="https://google.com">Badges</a>
+- <a href="https://www.credly.com/users/kenneth-nweke">Badges</a>
 
 ## 📞 Contact Me
 
