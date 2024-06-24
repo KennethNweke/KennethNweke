@@ -1,6 +1,30 @@
-# Hi, I'm [Your Name] 👋
+Hi, I'm Kenneth Nweke 👋
 
-Welcome to my GitHub profile! I am a highly skilled Network and SOC Engineer with extensive experience in designing, implementing, and managing secure and robust network infrastructures. My expertise spans across various aspects of network engineering and security operations centers (SOC). Below you'll find more about my skills, projects, and how to get in touch with me.
+
+<a href="https://www.linkedin.com/in/kenneth-nweke-4a9456185/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+[Brief Introduction - Remove this afterwards]
+
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 🚀 About Me
 
