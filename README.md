@@ -44,17 +44,15 @@ I have a relevant hands on experience in:
 
 ### Tools & Technologies
 
-- Cisco | Mikrotik | Fortigate FW | 
+- Cisco | Mikrotik | Fortigate FW | DLINK | 
 - Wireshark | Nmap | Splunk | Nessus | Python | Ansible
 - AWS | EC2 | Route53 | S3 | EFS | Microsoft 365 | Windows Server 
-- SIEM | Vulnerability Assessment and Penetration Testing | IT Policy Development
+- SIEM | Vulnerability Assessment | Penetration Testing | IT Policy Development
 
 ## 📈 Certifications 
 
-- Cisco Certified Network Associate (CCNA)
-- Certified Information Systems Security Professional (CISSP)
-- CompTIA Security+
-- Certified Ethical Hacker (CEH)
+- Cisco CCNA | ISC2 CC | AWS CLF | CompTIA Security+
+- MS AZURE 900 | Certified Ethical Hacker (CEH)
 - <a href="https://www.credly.com/users/kenneth-nweke">Badges</a>
 
 ## 📞 Contact Me
