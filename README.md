@@ -1,9 +1,6 @@
 Hi, I'm Kenneth Nweke 👋
 
-
 <a href="https://www.linkedin.com/in/kenneth-nweke-4a9456185/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-[Brief Introduction - Remove this afterwards]
 
 I am a Network Engineer with extensive experience in designing, implementing, and managing secure network infrastructures, I am currently pursuing my Masters Degree in Cyber Security at Anglia Ruskin University. 
 
