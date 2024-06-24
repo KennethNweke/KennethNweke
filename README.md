@@ -55,15 +55,11 @@ I have a relevant hands on experience in:
     <img src="https://img.shields.io/badge/-Cisco-1A1A1A?style=for-the-badge&logo=cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-FortiGate-EE3124?style=for-the-badge&logo=Fortinet&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Hikvision-FF3300?style=for-the-badge&logo=hikvision&logoColor=white" />
     <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
     <br>
     <img src="https://img.shields.io/badge/-Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" />
     <img src="https://img.shields.io/badge/-VMware%20ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-
-
-
 </div>
 
 ### Service and Asset Management
@@ -71,6 +67,17 @@ I have a relevant hands on experience in:
     <img src="https://img.shields.io/badge/-GLPI-2C5BB4?style=for-the-badge&logo=glpi&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Freshdesk-78B657?style=for-the-badge&logo=freshdesk&logoColor=white" />
+</div>
+
+### Security and Access Control
+<div>
+    <img src="https://img.shields.io/badge/-Hikvision-FF3300?style=for-the-badge&logo=hikvision&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ACTi-FF4500?style=for-the-badge&logo=acti&logoColor=white" />
+    <a href="https://www.zkteco.com/">
+  <img src="https://img.shields.io/badge/-ZKTeco-2DB92D?style=for-the-badge&logoColor=white&labelColor=2DB92D&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAxElEQVQ4T8XUsQ2DQBSA4b3PyRZk0vQgJxAFUMYJxBwwGngFV4hP0Eg3UC6oD4AA2cvoVRUV7oJD8gfIngd5pR7Gs58Jt8mwPPZs4mJ+J5M3Nj7g5bl4ygrSwuwuYK2Un19k3UJpfP5TjBHPkVYP8KbCXkFUkYYADP4Hg4QgMhRE8I2xYwReAPmcsWJXxTZpvhEjhSH8nHMY8yy8rPhM1KwUNBQ8iS/i+QHi7i7mDT5HgGsl6GqAArK+9WtsUQ9YAAAAASUVORK5CYII=" alt="ZKTeco Logo" />
+</a>
+
+
 </div>
 
 <br>
