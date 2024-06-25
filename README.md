@@ -57,7 +57,6 @@ I have a relevant hands on experience in:
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-    <br>
     <img src="https://img.shields.io/badge/-Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" />
     <img src="https://img.shields.io/badge/-VMware%20ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white" />
 </div>
