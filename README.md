@@ -30,6 +30,7 @@ I have a relevant hands on experience in:
 | Firewall Configuration and Management      | SOC Automation Lab|
 | VPN Solutions                 | SOC Automation Lab|
 | Network Protocols (TCP/IP, BGP, OSPF, etc.) | SOC Automation Lab|
+| Network Hardening  | <a href="https://github.com/KennethNweke/NetworkHardening">Project 1</a>|
 
 
 
