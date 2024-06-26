@@ -38,7 +38,7 @@ I have a relevant hands on experience in:
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Penetration Testing          | <a href="https://github.com/KennethNweke/PenTesting">Detection Lab</a>|
+| Penetration Testing          | <a href="https://github.com/KennethNweke/PenTesting">Pen Testing Project</a>|
 | SIEM Network Traffic Monitoring and Attack Detection | <a href="">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
