@@ -24,14 +24,8 @@ I have a relevant hands on experience in:
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Design and Implementation          | <a href="https://google.com">Project 1</a>, <a href="https://google.com">Project 2</a> |
-| Network Troubleshooting and Optimization | <a href="https://google.com">Detection Lab</a>|
-| LAN/WAN Technologies         | SOC Automation Lab|
-| Firewall Configuration and Management      | SOC Automation Lab|
-| VPN Solutions                 | SOC Automation Lab|
-| Network Protocols (TCP/IP, BGP, OSPF, etc.) | SOC Automation Lab|
+| Hotel Network Design | <a href="https://github.com/KennethNweke/Hotel-System-Network-Design/blob/main/README.md">Project 1</a>|
 | Network Hardening  | <a href="https://github.com/KennethNweke/NetworkHardening">Project 1</a>|
-
 
 
 ### SOC Engineering
@@ -40,10 +34,7 @@ I have a relevant hands on experience in:
 |-----------------------------------------------|----------------------------|
 | Penetration Testing          | <a href="https://github.com/KennethNweke/PenTesting">Pen Testing Project</a>|
 | SIEM Network Traffic Monitoring and Attack Detection | <a href="">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 
 <br>
