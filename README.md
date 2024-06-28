@@ -24,7 +24,7 @@ I have a relevant hands on experience in:
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Hotel Network Design | <a href="https://github.com/KennethNweke/Hotel-System-Network-Design/blob/main/README.md">Project 1</a>|
+| Network Design and Implementation | <a href="https://github.com/KennethNweke/Hotel-System-Network-Design/blob/main/README.md">Project 1</a>|
 | Network Hardening  | <a href="https://github.com/KennethNweke/NetworkHardening">Project 1</a>|
 
 
