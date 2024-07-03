@@ -26,7 +26,7 @@ I have a relevant hands on experience in:
 |-----------------------------------------------|----------------------------|
 | Network Design and Implementation | <a href="https://github.com/KennethNweke/Hotel-System-Network-Design/blob/main/README.md">Project 1</a>|
 | Network Hardening  | <a href="https://github.com/KennethNweke/NetworkHardening">Project 1</a>|
-
+More coming soon...
 
 ### SOC Engineering
 
@@ -34,7 +34,7 @@ I have a relevant hands on experience in:
 |-----------------------------------------------|----------------------------|
 | Penetration Testing          | <a href="https://github.com/KennethNweke/PenTesting">Pen Testing Project</a>|
 | SIEM Network Traffic Monitoring and Attack Detection | <a href="">Detection Lab</a>|
-
+More coming soon...
 
 
 <br>
