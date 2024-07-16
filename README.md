@@ -5,6 +5,9 @@
 <a href="https://www.x.com/Kenneth80923528"><img src="https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://github.com/KennethNweke/Media">Media</a>
 
+ [![Watch the video](https://img.shields.io/badge/Play-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=i-N7XK0mXlE)
+
+
 I am a Network Engineer with extensive experience in designing, implementing, and managing secure network infrastructures, I am currently pursuing my Masters Degree in Cyber Security at Anglia Ruskin University. 
 
 <br>
