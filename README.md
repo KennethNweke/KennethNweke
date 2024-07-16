@@ -4,6 +4,7 @@
 <a href="https://www.credly.com/users/kenneth-nweke"><img src="https://img.shields.io/badge/-Credly-FF6F00?&style=for-the-badge&logo=credly&logoColor=white" /></a>
 <a href="https://www.x.com/Kenneth80923528"><img src="https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="[https://github.com/KennethNweke/Media"><img src="https://img.shields.io/badge/Play-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://github.com/KennethNweke/Media"><img src="https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=x&logoColor=white" /></a>
 
 
 
