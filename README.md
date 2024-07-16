@@ -3,6 +3,7 @@
 <a href="https://www.linkedin.com/in/kenneth-nweke-4a9456185/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.credly.com/users/kenneth-nweke"><img src="https://img.shields.io/badge/-Credly-FF6F00?&style=for-the-badge&logo=credly&logoColor=white" /></a>
 <a href="https://www.x.com/Kenneth80923528"><img src="https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://github.com/KennethNweke/Media"><img src="https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=x&logoColor=white" /></a>
 
 I am a Network Engineer with extensive experience in designing, implementing, and managing secure network infrastructures, I am currently pursuing my Masters Degree in Cyber Security at Anglia Ruskin University. 
 
@@ -67,11 +68,6 @@ More coming soon...
     <img src="https://img.shields.io/badge/-ZKTeco-2DB92D?style=for-the-badge&logo=zkteco&logoColor=white" />
 </a>
     
-### Media from Projects, Lectures and Trainings 
-<div>
-    <a href="https://github.com/KennethNweke/PenTestin](https://github.com/KennethNweke/Media">Pen Testing Project</a>|
-</a>
-
 </div>
 
 <br>
