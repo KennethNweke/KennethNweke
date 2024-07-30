@@ -29,16 +29,16 @@ I have a relevant hands on experience in:
 |-----------------------------------------------|----------------------------|
 | Network Design and Implementation | <a href="https://github.com/KennethNweke/Hotel-System-Network-Design/blob/main/README.md">Project 1</a>|
 | Network Hardening  | <a href="https://github.com/KennethNweke/NetworkHardening">Project 1</a>|
-| Network Monitoring with Zabbix  | <a href="https://github.com/KennethNweke/Zabbix-Network-Monitoring">Project 1</a>|
+| Network Monitoring | <a href="https://github.com/KennethNweke/Zabbix-Network-Monitoring">Project 1</a>|
 More coming soon...
 
 ### SOC Engineering
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Penetration Testing          | <a href="https://github.com/KennethNweke/PenTesting">Pen Testing Project</a>|
-| Virus Total API | <a href="https://github.com/KennethNweke/Virus-Total-API">Detection Lab</a>|
-| SIEM Network Traffic Monitoring and Attack Detection | <a href="">Detection Lab</a>|
+| Penetration Testing          | <a href="https://github.com/KennethNweke/PenTesting">Project 1</a>|
+| Virus Total API | <a href="https://github.com/KennethNweke/Virus-Total-API">Project 1</a>|
+| SIEM Network Traffic Monitoring and Attack Detection | <a href="">Project 1</a>|
 More coming soon...
 
 
