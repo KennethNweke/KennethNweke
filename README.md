@@ -37,6 +37,7 @@ More coming soon...
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Penetration Testing          | <a href="https://github.com/KennethNweke/PenTesting">Pen Testing Project</a>|
+| Virus Total API | <a href="https://github.com/KennethNweke/Virus-Total-API">Detection Lab</a>|
 | SIEM Network Traffic Monitoring and Attack Detection | <a href="">Detection Lab</a>|
 More coming soon...
 
