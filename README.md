@@ -38,7 +38,7 @@ More coming soon...
 |-----------------------------------------------|----------------------------|
 | Penetration Testing          | <a href="https://github.com/KennethNweke/PenTesting">Project 1</a>|
 | Virus Total API | <a href="https://github.com/KennethNweke/Virus-Total-API">Project 1</a>|
-| SIEM Network Traffic Monitoring and Attack Detection | <a href="">Project 1</a>|
+| SIEM Network Traffic Monitoring and Attack Detection | Coming soon |
 More coming soon...
 
 
